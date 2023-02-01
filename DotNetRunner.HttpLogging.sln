@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetRunner.HttpLogging", "DotNetRunner.HttpLogging\DotNetRunner.HttpLogging.csproj", "{3F0AA184-FE02-44F6-903B-A55CDD73B887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetRunner.HttpLogging.TestApi", "DotNetRunner.HttpLogging.TestApi\DotNetRunner.HttpLogging.TestApi.csproj", "{BF864519-B1CD-4275-A1FA-10F293BC216B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0AA184-FE02-44F6-903B-A55CDD73B887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0AA184-FE02-44F6-903B-A55CDD73B887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0AA184-FE02-44F6-903B-A55CDD73B887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0AA184-FE02-44F6-903B-A55CDD73B887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF864519-B1CD-4275-A1FA-10F293BC216B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF864519-B1CD-4275-A1FA-10F293BC216B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF864519-B1CD-4275-A1FA-10F293BC216B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF864519-B1CD-4275-A1FA-10F293BC216B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
